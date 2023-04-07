@@ -1,1 +1,3 @@
-# gitty_testie
+# #gitty_testie
+My 2nd GitHub repo!
+Hello Odin
